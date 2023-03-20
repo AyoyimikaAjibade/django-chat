@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+djangochat_env
+db.sqlite3
+.DS_Store
